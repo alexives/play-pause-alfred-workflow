@@ -1,4 +1,4 @@
-# Play/Pause web music workflow for Alfred 2
+# Play/Pause web music for Alfred 2
 This is a workflow for alfred 2. It's purpose is to look through open chrome tabs and when it finds a songza tab, play or pause the music. It does this using an applescript embeded in the info.plist file.
 
 ## How does it work?
