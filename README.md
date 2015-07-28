@@ -13,7 +13,9 @@ Download the latest release from the releases and double click. Alfred should im
 ## Copyright information.
 I've done all of this with any permissions for these services. I don't think any of them will have a problem being included here. If you represent one of these services, and have a problem being included, contact me and I'll remove you from the list, no questions asked.
 
+````
 Classical MPR is (c) Minnesota Public Radio
 MPR News is (c) Minnesota Public Radio
 The Current is (c) Minnesota Public Radio
 Songza is (c) Songza Media, Inc
+````
