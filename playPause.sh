@@ -22,7 +22,7 @@ tell application "Google Chrome"
 	end repeat
 	if not found_tab then
 		make new window
-		set URL of (active tab of window 1) to "http://www.mprnews.org/listen"
+		set URL of (active tab of window 1) to "http://$site"
 	end if
 end tell
 EOF)
