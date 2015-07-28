@@ -10,12 +10,29 @@ Personally, I find it useful to be able to pause the music quickly when I get up
 ## Installation
 Download the latest release from the releases and double click. Alfred should import it automatically. Alternately, clone this repo and symlink it to your "workflows" directory.
 
-## Copyright information.
-I've done all of this with any permissions for these services. I don't think any of them will have a problem being included here. If you represent one of these services, and have a problem being included, contact me and I'll remove you from the list, no questions asked.
+## Copyright information and Disclaimer
+I have no affliation with any of these media services. I've done all of this with any permissions for these services. I don't think any of them will have a problem being included here. If you represent one of these services, and have a problem being included, contact me and I'll remove you from the list, no questions asked.
 
-````
-Classical MPR is (c) Minnesota Public Radio
-MPR News is (c) Minnesota Public Radio
-The Current is (c) Minnesota Public Radio
-Songza is (c) Songza Media, Inc
-````
+[Classical MPR is Copyright Minnesota Public Radio](http://classicalmpr.org)
+
+[MPR News is Copyright Minnesota Public Radio](http://mprnews.org)
+
+[The Current is Copyright Minnesota Public Radio](http://thecurrent.org)
+
+[Songza is Copyright Songza Media, Inc](http://songza.com)
+
+### This Software
+
+[Copyright 2015 Alex Ives](http://alex.ives.mn)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
