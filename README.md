@@ -29,6 +29,8 @@ I have no affliation with any of these media services. I've done all of this wit
 
 [Slacker Radio is Copyright Slacker, Inc.](http://slacker.com)
 
+[Hype Machine is Copyright The Hype Machine Inc.](http://hypem.com)
+
 ### This Software
 
 [Copyright 2015 Alex Ives](http://alex.ives.mn)
