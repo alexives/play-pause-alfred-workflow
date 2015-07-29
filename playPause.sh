@@ -15,7 +15,7 @@ tell application "Google Chrome"
 			if url_text contains "$site" then
 				set found_tab to true
 				tell window i
-					execute tab index j javascript "var pause=document.getElementById('$pause');var play;if(pause != null){play=document.getElementById('$play')}else{play=document.getElementsByClassName('$play')[0];pause=document.getElementsByClassName('$pause')[0]} if(pause.style.display!='none'){pause.click()}else{play.click()}"
+					execute tab index j javascript "var pause=document.getElementById('$pause');var play;if(pause != null){play=document.getElementById('$play')}else{play=document.getElementsByClassName('$play')[0];pause=document.getElementsByClassName('$pause')[0]} if(pause.style.display!='none'){pause.id='$pause';pause.click()}else{pause.id='$play';play.click()}"
 				end tell
 			end if
 		end repeat
