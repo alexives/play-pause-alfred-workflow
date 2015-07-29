@@ -27,6 +27,8 @@ I have no affliation with any of these media services. I've done all of this wit
 
 [Google Music is Copyright Google Inc.](http://google.com)
 
+[Slacker Radio is Copyright Slacker, Inc.](http://slacker.com)
+
 ### This Software
 
 [Copyright 2015 Alex Ives](http://alex.ives.mn)
