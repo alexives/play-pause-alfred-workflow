@@ -23,6 +23,8 @@ I have no affliation with any of these media services. I've done all of this wit
 
 [I Heart Radio is Copyright iHeartMedia, Inc.](http://iheart.com)
 
+[SoundCloud is Copyright SoundCloud Limited](http://soundcloud.com)
+
 ### This Software
 
 [Copyright 2015 Alex Ives](http://alex.ives.mn)
