@@ -21,6 +21,16 @@ I have no affliation with any of these media services. I've done all of this wit
 
 [Songza is Copyright Songza Media, Inc](http://songza.com)
 
+[I Heart Radio is Copyright iHeartMedia, Inc.](http://iheart.com)
+
+[SoundCloud is Copyright SoundCloud Limited](http://soundcloud.com)
+
+[Google Music is Copyright Google Inc.](http://google.com)
+
+[Slacker Radio is Copyright Slacker, Inc.](http://slacker.com)
+
+[Hype Machine is Copyright The Hype Machine Inc.](http://hypem.com)
+
 ### This Software
 
 [Copyright 2015 Alex Ives](http://alex.ives.mn)

@@ -2,3 +2,8 @@ classicalmpr.org/listen,Classical MPR,apm_player_play,apm_player_pause,classical
 mprnews.org/listen,MPR News,apm_player_play,apm_player_pause,mprnews.png
 thecurrent.org/listen,The Current,apm_player_play,apm_player_pause,thecurrent.png
 songza.com,Songza,ui-icon-ios7-play,ui-icon-ios7-pause,songza.png
+iheart.com,I Heart Radio,play,play,iheart.jpg
+soundcloud.com,SoundCloud,playControl,playControl,soundcloud.png
+google.com/music,Google Music,playing,playing,googlemusic.png
+slacker.com,Slacker,pause,pause,slacker.png
+hypem.com,Hype Machine,playerPlay,playerPlay,hypem.png
